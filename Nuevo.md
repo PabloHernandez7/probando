@@ -16,24 +16,27 @@ El sistema le ofrece un listado de médicos que cumplen con los requisitos selec
 4.2. Se retoma el curso básico en el paso 2.
 - Suposición: Supongo que el paciente se registró y logueó en el sistema.
 
-# Nombre caso de uso: Seleccionar Turno
-## Descripción breve: El paciente quiere seleccionar un turno 
-   -Actor primario: Paciente
-   -Trigger: El caso de uso comienza cuando un paciente quiere seleccionar    un turno
+# Nombre caso de uso: 
+    Seleccionar Turno
+## Descripción breve:
+    El paciente quiere seleccionar un turno 
+## Actor primario: 
+   Paciente
+## Trigger: El caso de uso comienza cuando un paciente quiere seleccionar    un turno
 ## Curso Básico
-1-      El caso de uso comienza cuando un paciente quiere seleccionar un turno
-2-      El sistema mostrará los turnos disponibles
-3-      El paciente selecciona un turno
-4-      El sistema solicitará al paciente que reconfirme sus datos personales
-5-      El paciente ingresa su nombre, apellido, dirección teléfono, email, obra social y número de afiliado
-6- El sistema verifica que los datos personales son los correctos
-7-	 El sistema dará la opción de imprimir los datos del turno
-8-   El paciente decide que quiere imprimir los datos del turno(alternativo el no)
-9-   sistema imprime datos del turno
-10- El sistema verifica si la obra social del paciente el medico lo cubre al 100%
-11- El sistema registra el turno
-12- El sistema brindará un detalle del turno registrado, y él mismo lo enviará por mail
-13- El caso de uso finaliza
+    1- El caso de uso comienza cuando un paciente quiere seleccionar un turno
+    2- El sistema mostrará los turnos disponibles
+    3- El paciente selecciona un turno
+    4- El sistema solicitará al paciente que reconfirme sus datos personales
+    5- El paciente ingresa su nombre, apellido, dirección teléfono, email, obra social y número de afiliado
+    6- El sistema verifica que los datos personales son los correctos
+    7- El sistema dará la opción de imprimir los datos del turno
+    8- El paciente decide que quiere imprimir los datos del turno(alternativo el no)
+    9- El sistema imprime datos del turno
+   10- El sistema verifica si la obra social del paciente el medico lo cubre al 100%
+   11- El sistema registra el turno
+   12- El sistema brindará un detalle del turno registrado, y él mismo lo enviará por mail
+   13- El caso de uso finaliza
 ## Caso alternativo
 ### 6.El sistema verifica que los datos personales son los correctos
        6.1 El sistema identifica que los datos no son los correctos
