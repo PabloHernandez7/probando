@@ -47,7 +47,8 @@ El sistema le ofrece un listado de médicos que cumplen con los requisitos selec
        10.2 El sistema da la opción de cambiar médico o seguir con el turno. 
        10.3 El paciente elige cambiar de médico.
        10.4 Se retoma el curso básico en el paso 9.
-#### 10.2.1  El sistema da la opción de cambiar médico o seguir con el turno.
+### 10.2 El sistema da la opción de cambiar médico o seguir con el turno.
+         10.2.1 El sistema da la opción de cambiar médico o seguir con el turno. 
          10.2.2  El paciente decide seguir con el turno.
          10.2.3  Se retoma el curso básico en el paso 9.
 Postcondición:
