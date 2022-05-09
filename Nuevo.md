@@ -34,10 +34,10 @@ El sistema le ofrece un listado de médicos que cumplen con los requisitos selec
     7- El sistema dará la opción de imprimir los datos del turno
     8- El paciente decide que quiere imprimir los datos del turno(alternativo el no)
     9- El sistema imprime datos del turno
-   10- El sistema verifica si la obra social del paciente el medico lo cubre al 100%
-   11- El sistema registra el turno
-   12- El sistema brindará un detalle del turno registrado, y él mismo lo enviará por mail
-   13- El caso de uso finaliza
+    10- El sistema verifica si la obra social del paciente el medico lo cubre al 100%
+    11- El sistema registra el turno
+    12- El sistema brindará un detalle del turno registrado, y él mismo lo enviará por mail
+    13- El caso de uso finaliza
 ## Caso alternativo
 ### 6.El sistema verifica que los datos personales son los correctos
        6.1 El sistema identifica que los datos no son los correctos
