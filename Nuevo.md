@@ -21,8 +21,9 @@ El sistema le ofrece un listado de médicos que cumplen con los requisitos selec
 ## Descripción breve:
     El paciente quiere seleccionar un turno 
 ## Actor primario: 
-   Paciente
-## Trigger: El caso de uso comienza cuando un paciente quiere seleccionar    un turno
+    Paciente
+## Trigger: 
+    El caso de uso comienza cuando un paciente quiere seleccionar    un turno
 ## Curso Básico
     1- El caso de uso comienza cuando un paciente quiere seleccionar un turno
     2- El sistema mostrará los turnos disponibles
