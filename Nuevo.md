@@ -16,11 +16,11 @@ El sistema le ofrece un listado de médicos que cumplen con los requisitos selec
 4.2. Se retoma el curso básico en el paso 2.
 - Suposición: Supongo que el paciente se registró y logueó en el sistema.
 
-#Nombre caso de uso: Seleccionar Turno
-##Descripción breve: El paciente quiere seleccionar un turno 
--Actor primario: Paciente
--Trigger: El caso de uso comienza cuando un paciente quiere seleccionar un turno
-Curso Básico
+# Nombre caso de uso: Seleccionar Turno
+## Descripción breve: El paciente quiere seleccionar un turno 
+   -Actor primario: Paciente
+   -Trigger: El caso de uso comienza cuando un paciente quiere seleccionar    un turno
+## Curso Básico
 1-      El caso de uso comienza cuando un paciente quiere seleccionar un turno
 2-      El sistema mostrará los turnos disponibles
 3-      El paciente selecciona un turno
@@ -34,7 +34,7 @@ Curso Básico
 11- El sistema registra el turno
 12- El sistema brindará un detalle del turno registrado, y él mismo lo enviará por mail
 13- El caso de uso finaliza
-##Caso alternativo
+## Caso alternativo
 ### 6.El sistema verifica que los datos personales son los correctos
        6.1 El sistema identifica que los datos no son los correctos
        6.2 Se retoma el curso básico en el paso 5.
