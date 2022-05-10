@@ -1,4 +1,5 @@
-### Caso de uso 1:
+# Caso de uso 1:
+
 # Nombre del caso de uso: Seleccionar médico
 ## Descripción breve: Un paciente desea seleccionar un médico para tener su turno
 ## Actor primario: Paciente
@@ -57,7 +58,7 @@ El caso de uso comienza cuando un Paciente quiere seleccionar un médico en el s
 ## Postcondición: Se registró el turno.
 ## Suposición: El paciente ya se encuentra registrado y logueado.
 
-### Caso de uso 3:
+# Caso de uso 3:
 
 ## Nombre caso de uso: Seleccionar rango fechas y horarios
 ## Descripción breve: Una vez seleccionado el médico, se muestran los días y horarios en los que atiende y se puede elegir filtrar si el turno es de mañana o tarde
